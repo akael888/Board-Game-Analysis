@@ -1,0 +1,9 @@
+# .gitattributes
+
+# Force Jupyter notebooks to use LF
+*.ipynb text eol=lf
+
+# Set common text files to LF
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
